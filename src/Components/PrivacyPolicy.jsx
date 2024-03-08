@@ -176,14 +176,10 @@ const PrivacyPolicy = () => {
                   color: "363D47",
                 }}
               >
-                Refund Policy
+               Contact Us
               </h3>
             </div>
 
-            <p style={{ color: "#69707A" }}>
-
-
-              <h6 style={{ color: "#69707A" }}>Contact Us:</h6>
 
               <p style={{ color: "#69707A" }}>
 
@@ -195,7 +191,6 @@ const PrivacyPolicy = () => {
               </p>
 
 
-            </p>
           </div>
 
           <div className="col-lg-4">
