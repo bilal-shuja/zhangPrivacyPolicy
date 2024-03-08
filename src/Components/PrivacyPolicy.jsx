@@ -179,8 +179,6 @@ const PrivacyPolicy = () => {
                Contact Us
               </h3>
             </div>
-
-
               <p style={{ color: "#69707A" }}>
 
               If you have any questions or concerns about this Privacy Policy reach out to our customer support team.
